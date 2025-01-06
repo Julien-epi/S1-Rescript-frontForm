@@ -1,6 +1,5 @@
 'use client'
 
-import Image from "next/image";
 import { useState } from 'react';
 import { validateEmail, validatePassword, validatePhone, validateUsername, validateDate } from '@loustic/rescript-form-validator';
 import './globals.css';
